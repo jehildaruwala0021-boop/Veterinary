@@ -1,0 +1,7 @@
+{
+  "name": "Pawfect Health Veterinary Hospital",
+  "description": "A calm, modern, and trust-first veterinary hospital website for pet parents in Whitefield, Bangalore, featuring a frictionless multi-step appointment booking system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
